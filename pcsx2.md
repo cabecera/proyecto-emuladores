@@ -16,6 +16,7 @@ Los roms deben estar en formato .iso
 
 <img width="904" height="659" alt="{A9F1D671-E7F8-4857-8509-AFD25FF6246C}" src="https://github.com/user-attachments/assets/f243fab3-b22a-44d4-bb7a-d22b99520441" />
 
+### Configuracion especifica
 En algunos juegos como el Dragon Ball Budokai Tenkaichi 3 o el 4 del team bt4. Aparecen algunos personajes como dobles como si tuvieran sombra o GHOSTING 
 
 <img width="338" height="469" alt="{4CDA382F-5A35-4964-8F49-9258D4F438FD}" src="https://github.com/user-attachments/assets/33170c3b-cdf5-4f27-bbe5-fc4a5163c158" />
